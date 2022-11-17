@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import PageTitle from '../../components/PageTitle/index';
+import {PageTitle} from '../../components';
 
 const HomePage: FC = () => (
     <>
